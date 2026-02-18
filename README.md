@@ -1,3 +1,3 @@
 # first-project
 
-author
+Author/DEVELOPER
